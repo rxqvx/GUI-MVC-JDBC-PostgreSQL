@@ -11,7 +11,7 @@ com uma interface (GUI) com java swing da qual manuseará um CRUD de criação d
 
 ![jdbc download](https://i.imgur.com/fiRjBTb.png)
 
-- [Flex Grid](https://jdbc.postgresql.org/download.html)
+- [JDBC Download](https://jdbc.postgresql.org/download.html)
 
 - Vá no banco de dados e crie um DataBase com nome de alunos (coloquei a senha do meu postgreSql como 123), 
 abra a aba de Schemas > public > Tables, em tables clique com o botão direito do mouse e selecione para criar
