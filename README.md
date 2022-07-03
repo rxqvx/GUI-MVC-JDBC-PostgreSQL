@@ -3,7 +3,7 @@
 com uma interface (GUI) com java swing da qual manuseará um CRUD de criação de produtos que poderão ser salvos no banco de dados relacional PostgreSQL.
 
 # Como rodar o projeto
-- Para vizualizar a funcionalidade do sisteminha, apenas rode o main.
+- Para vizualizar a funcionalidade do sisteminha, apenas rode o Main.
 
 # Dependências
 - Instalar o JDBC e importá-lo na pasta Libraries
