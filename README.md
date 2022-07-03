@@ -18,8 +18,10 @@ abra a aba de Schemas > public > Tables, em tables clique com o botão direito d
 uma nova tabela, insira o nome da tabela como "products" em seguida vá na aba Columns e crie 4 itens com as 
 seguintes configurações:
 
+```
 Name          DataType            Length/Precision  Scale   Not NULL?   Primary key?  Default
 id            character varying                             true        true
 nome          character varying                             true        false
 valor         character varying                             true        false
 quantidade    character varying                             true        false
+```
